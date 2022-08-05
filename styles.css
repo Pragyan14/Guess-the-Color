@@ -1,0 +1,37 @@
+body{
+    background-color: #011F3F;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 2.8rem;
+}
+h2{
+    font-size: 4rem;
+}
+.top-div{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: #FEF2BF;
+    margin: 5% 0;
+}
+.top-div p {
+    font-size: 2rem;
+    color: #F37878;
+    margin-top: 2.5%;
+}
+.btn{
+    width: 170px;
+    height: 170px;
+    border: 11px solid black;
+    border-radius: 20%;
+}
+.bottom-div{
+    text-align: center;
+}
+.winner{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: #FFE61B;
+    margin-top: 7%;
+}
